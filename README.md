@@ -3,7 +3,7 @@
 ## Projects
 ### project 1
 - Description
-- Links
+- [Twitch](https://www.twitch.tv/ori_jynn)
 
 ### project 2
 - Description
